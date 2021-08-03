@@ -2,7 +2,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-📚 Sou RenanPrazeres estou cursando 2° Semestre do curso Técnico de Desenvolvimento de sistemas no SENAI Jandira - Professor Vicente Amato.
+📚 Sou RenanPrazeres estou cursando 3° Semestre do curso Técnico de Desenvolvimento de sistemas no SENAI Jandira - Professor Vicente Amato.
 
 💻 Estou procurando emprego na área de Desenvolvimento Back-end ou Front-end.
 
