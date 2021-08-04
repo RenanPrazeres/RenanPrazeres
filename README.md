@@ -4,7 +4,7 @@
 
 📚 Sou RenanPrazeres estou cursando 3° Semestre do curso Técnico de Desenvolvimento de sistemas no SENAI Jandira - Professor Vicente Amato.
 
-💻 Estou procurando emprego na área de Desenvolvimento Back-end ou Front-end.
+💻 Estou procurando emprego na área de Desenvolvimento Front-end.
 
 🚀 Aprendendo sempre !
 
