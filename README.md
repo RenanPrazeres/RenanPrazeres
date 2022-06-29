@@ -1,79 +1,47 @@
-# RenanPrazeres &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# RenanPrazeres 
 
-
-📚 Sou RenanPrazeres estou cursando 3° Semestre do curso Técnico de Desenvolvimento de sistemas no SENAI Jandira - Professor Vicente Amato.
-
-💻 Estou procurando emprego na área de Desenvolvimento Front-end.
+👨‍💻 Sou formado em Técnico em Desenvolvimento de Sistemas e busco a minha primeira oportunidade profissional na área como estagiário ou programador júnior. No SENAI Prof. Vicente Amato tive contato com: Fundamentos de programação orientada a objeto; Sistemas operacionais; Hardware e redes; Linguagem de marcação; Programação web Front-end; Programação web Back-end; Banco de dados; Interfaces para dispositivos móveis; Programação para dispositivos móveis; Requisitos e modelagem de software; Testes de software; Projetos.
 
 🚀 Aprendendo sempre !
+<br>
 
+<div align="center">
+  <a href="https://github.com/RenanPrazeres">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanPrazeres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPrazeres&show_icons=true&theme=dark"/>
+</div>
+
+<br>
+
+#### Linguagens e frameworks
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!-- <img align="center" alt="v-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <img align="center" alt="Kauan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="v-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  
-
+</div><br>
+ 
+ #### Minhas redes sociais e info para contato
+ <div style="display: inline_block"> 
+  <a href="https://wa.me/5511952150183?text=Ol%C3%A1%2C+tudo+bem+%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.instagram.com/r.prazeres/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ <!-- <a href = "https://mail.google.com/mail/u/example@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  
+  <a href="https://www.linkedin.com/in/renan-prazeres-b0636b9a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanPrazeres&show_icons=true&theme=radical)
+ #### Versionamento e documentação
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  <!-- ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
-<br>
-
-<a href="https://github.com/RenanPrazeres">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPrazeres&theme=dark&hide_langs_below=1" />
-</a>
-
-<br>
-<br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="80">
-
-<br>
-
-
- ### 🚀 Tecnologias 
-
-<img align="left" src="https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" >
-
-<img align="left" src="https://camo.githubusercontent.com/b430f12ce9355be8c36aecb45e5d77311d156b88b35e4a180df1eac8952e1c3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b">
-
-<img align="left" src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
-
-<img align="left" src="https://camo.githubusercontent.com/c567bc8fea35a350406f3ad80e2ec6dd76dea5f756187908f35322bbbc8bc77c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
-
-<img align="left" src="https://camo.githubusercontent.com/20f8a4f1e9c33b1cffb1968cda82ced5b6cd5d6c5a09865eab911724b1917d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
-
-<img align="left" src="https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
-
-![PHP](https://user-images.githubusercontent.com/62961331/116013676-caa93200-a607-11eb-841f-31b600c80101.png)
-
-
-
-
-
-### 🔧 Ferramentas
-
-![visualStudioCode](https://user-images.githubusercontent.com/62961331/116012522-4d7abe80-a601-11eb-8fdb-a50125359d1e.png)&nbsp;&nbsp;
-![figma](https://user-images.githubusercontent.com/62961331/116012567-99c5fe80-a601-11eb-8534-7fa12589aa6e.png)&nbsp;&nbsp;
-![studio](https://user-images.githubusercontent.com/62961331/116012773-f83fac80-a602-11eb-9d95-09aad31f725c.png)&nbsp;&nbsp;
-![xampp](https://user-images.githubusercontent.com/62961331/116012843-6c7a5000-a603-11eb-86ab-938b77d0e265.png)&nbsp;&nbsp;
-![git](https://user-images.githubusercontent.com/62961331/116012990-0fcb6500-a604-11eb-9075-d5e6dea48090.png)&nbsp;&nbsp;
-![github](https://user-images.githubusercontent.com/62961331/116013112-c3345980-a604-11eb-9f84-d39718b7dabd.png)&nbsp;&nbsp;
-<br>
-
-### Minha redes socias
-
-<a href="https://www.linkedin.com/in/renan-prazeres-b0636b9a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<!--
-
-**RenanPrazeres/RenanPrazeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### IDE's <br>
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  <!-- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) -->
+ 
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
