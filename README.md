@@ -2,6 +2,8 @@
 
 👨‍💻 Sou formado em Técnico em Desenvolvimento de Sistemas e busco a minha primeira oportunidade profissional na área como estagiário ou programador júnior. No SENAI Prof. Vicente Amato tive contato com: Fundamentos de programação orientada a objeto; Sistemas operacionais; Hardware e redes; Linguagem de marcação; Programação web Front-end; Programação web Back-end; Banco de dados; Interfaces para dispositivos móveis; Programação para dispositivos móveis; Requisitos e modelagem de software; Testes de software; Projetos.
 
+👨‍💻 Atualmente Cursando curso superior em  Analise e desenvolvimento de Sistemas na UNIFIEO.
+
 🚀 Aprendendo sempre !
 <br>
 
